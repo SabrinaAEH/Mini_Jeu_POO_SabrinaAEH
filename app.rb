@@ -1,4 +1,5 @@
 require 'dotenv'
+dotenv.load
 require 'pry'
 require 'bundler'
 Bundler.require
